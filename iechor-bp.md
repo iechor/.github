@@ -126,9 +126,8 @@
 - **重要参考文献**:
   - [Global SaaS Market Analysis](https://www.reportlinker.com/market-report/Cloud-Services/133045/SaaS?term=saas%20business%20model&matchtype=b&loc_interest=&loc_physical=1014226&utm_group=standard&utm_term=saas%20business%20model&utm_campaign=ppc&utm_source=google_ads&utm_medium=paid_ads&utm_content=transactionnel-3&hsa_acc=7466570189&hsa_cam=15062579447&hsa_grp=134516035401&hsa_ad=568209766000&hsa_src=g&hsa_tgt=kwd-422702838652&hsa_kw=saas%20business%20model&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwoJa2BhBPEiwA0l0ImNP3e2M5UGKJpT6kRsHvngUgTHcFl2c3HpK3QIfYBMFsAso20zfz2hoC_zMQAvD_BwE).
 
-  - [International expansion of **SaaS** companies: a network perspective](<https://www.utupub.fi/bitstream/handle/10024/177476/Atte> Vitikainen - Bachelors thesis.pdf?sequence=1)- [
-
-  - [**[PDF]**  theseus.fi](https://www.theseus.fi/bitstream/handle/10024/862083/Tuononen_Henry.pdf?sequence=2)
+  - [International expansion of **SaaS** companies: a network perspective](<https://www.utupub.fi/bitstream/handle/10024/177476/Atte>Vitikainen-Bachelorsthesis.pdf?sequence=1)
+  - [**[PDF]** theseus.fi](https://www.theseus.fi/bitstream/handle/10024/862083/Tuononen_Henry.pdf?sequence=2)
 
   - [Utilizing AI to Conduct **Market** Research for an **SaaS** Company](https://www.theseus.fi/handle/10024/862083)
   - [**[PDF]** theseus.fi](https://www.theseus.fi/bitstream/handle/10024/864187/Sundman_Richard.pdf?sequence=2)
@@ -206,7 +205,6 @@
   - [**[HTML]** **AI** and Computing Horizons: Cloud and Edge in the Modern Era](https://www.mdpi.com/2224-2708/13/4/44)
 
 - **示例**:
-  
   - 图3: AI Agent的概念图
 
 ### 3.2 AI Agent的独特优势
@@ -482,7 +480,6 @@
   - [Fostering IoT Repair Through Care: Learning from **Emotional** Durable Gaming Practices and Communities](https://dl.acm.org/doi/abs/10.1145/3656156.3663702)
 
 - **示例**:
-
   - 表6: 情感化设计示意图
 
 ---
@@ -612,7 +609,7 @@
 
   - [Analyzing and Defining an Ideal Customer Profile in B2B **SaaS** Companies](https://aaltodoc.aalto.fi/items/6b2eff09-8c26-4e0c-9b3d-519c3fcb2568)
 
-  - [HTML sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0019850124000142)
+  - [**[HTML]** sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0019850124000142)
 
   - [**[HTML]** **Subscription** offers in business-to-business markets: Conceptualization, taxonomy, and framework for growth](https://www.sciencedirect.com/science/article/pii/S0019850124000142)
   - [**[PDF]** researchgate.net](https://www.researchgate.net/profile/Dylan-Stilinski/publication/381514585_The_Future_of_Product_Management_in_the_Subscription_Economy/links/6671d9ebb769e7691940c399/The-Future-of-Product-Management-in-the-Subscription-Economy.pdf)
@@ -680,7 +677,7 @@
 
   - [**Customer Service** Automation and User Satisfaction: An Exploration of **AI**-powered Chatbot Implementation within **Customer** Relationship Management Systems](https://thesciencebrigade.com/jcir/article/view/249)
 
-- [**[HTML]** The paradoxes of generative **AI**-enabled **customer service**: A guide for managers](https://www.sciencedirect.com/science/article/pii/S0007681324000582)
+  - [**[HTML]** The paradoxes of generative **AI**-enabled **customer service**: A guide for managers](https://www.sciencedirect.com/science/article/pii/S0007681324000582)
 
   - [Can chatbot **customer service** match human **service agents** on **customer** satisfaction? An investigation in the role of trust](https://www.sciencedirect.com/science/article/pii/S096969892300351X)
 
@@ -690,7 +687,7 @@
 
   - [HTML sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0160791X24001180)
 
-- [**[HTML]** **Customer service** through **AI**-Powered human-robot relationships: Where are we now? The case of Henn na cafe, Japan](https://www.sciencedirect.com/science/article/pii/S0160791X24001180)
+  - [**[HTML]** **Customer service** through **AI**-Powered human-robot relationships: Where are we now? The case of Henn na cafe, Japan](https://www.sciencedirect.com/science/article/pii/S0160791X24001180)
 
   - [**Artificial intelligence service agents**: a silver lining in rural India](https://www.emerald.com/insight/content/doi/10.1108/K-09-2022-1239/full/html)
   - [**[PDF]** ulapland.fi](https://lauda.ulapland.fi/bitstream/handle/10024/66071/Kyrylenko_Yevheniia.pdf?sequence=1&isAllowed=y)
@@ -723,7 +720,7 @@
 
   - [HTML sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0007681324000582)
 
-- [**[HTML]** The paradoxes of generative **AI**-enabled **customer service**: A guide for managers](https://www.sciencedirect.com/science/article/pii/S0007681324000582)
+  - [**[HTML]** The paradoxes of generative **AI**-enabled **customer service**: A guide for managers](https://www.sciencedirect.com/science/article/pii/S0007681324000582)
   - [**[PDF]** sagepub.com](https://journals.sagepub.com/doi/pdf/10.1177/00222429231224748)
 
   - [The caring machine: Feeling **AI** for **customer care**](https://journals.sagepub.com/doi/abs/10.1177/00222429231224748)
@@ -781,7 +778,7 @@
 
   - [HTML google.com](https://books.google.com/books?hl=en&lr=&id=ra0FEQAAQBAJ&oi=fnd&pg=PA222&dq=AI+in+Financial+Risk+Management&ots=mAJUtmKe83&sig=AJpCRcPlEbh_jWKa6znSyaG4_tg)
 
-- [**[HTML]** **AI**-BASED **RISK** PREDICTION AND MONITORING IN **FINANCIAL** FUTURES AND SECURITIES MARKETS](https://books.google.com/books?hl=en&lr=&id=ra0FEQAAQBAJ&oi=fnd&pg=PA222&dq=AI+in+Financial+Risk+Management&ots=mAJUtmKe83&sig=AJpCRcPlEbh_jWKa6znSyaG4_tg)
+  - [**[HTML]** **AI**-BASED **RISK** PREDICTION AND MONITORING IN **FINANCIAL** FUTURES AND SECURITIES MARKETS](https://books.google.com/books?hl=en&lr=&id=ra0FEQAAQBAJ&oi=fnd&pg=PA222&dq=AI+in+Financial+Risk+Management&ots=mAJUtmKe83&sig=AJpCRcPlEbh_jWKa6znSyaG4_tg)
 
 - **示例**:
 
@@ -912,7 +909,7 @@
   - Monetizing AI Services
 
   - [**[HTML]** Selling and **monetizing** data in B2B markets: Four data-driven value propositions](https://www.sciencedirect.com/science/article/pii/S0166497223002468)
-  - [HTML sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0268401224000355)
+  - [**[HTML]** sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0268401224000355)
 
   - [**[HTML]** Willingness to pay for freemium **services**: Addressing the differences between **monetization** strategies](https://www.sciencedirect.com/science/article/pii/S0268401224000355)
   - [**[PDF]** springer.com](https://link.springer.com/content/pdf/10.1007/s11301-022-00309-1.pdf)
@@ -956,7 +953,7 @@
   - [**[PDF]** researchgate.net](https://www.researchgate.net/profile/Abu-Sied/publication/379435938_Factors_Influencing_Digital_Warehousing_and_AI_Utilization_in_Modern_Supply_Chains_Implications_for_Warehouse_Maintenance_Costs_and_Product_Pricing/links/66090ec8b839e05a20b12380/Factors-Influencing-Digital-Warehousing-and-AI-Utilization-in-Modern-Supply-Chains-Implications-for-Warehouse-Maintenance-Costs-and-Product-Pricing.pdf)
 
   - [Factors Influencing Digital Warehousing and **AI** Utilization in Modern Supply Chains: Implications for Warehouse Maintenance Costs and **Product Pricing**](https://www.researchgate.net/profile/Abu-Sied/publication/379435938_Factors_Influencing_Digital_Warehousing_and_AI_Utilization_in_Modern_Supply_Chains_Implications_for_Warehouse_Maintenance_Costs_and_Product_Pricing/links/66090ec8b839e05a20b12380/Factors-Influencing-Digital-Warehousing-and-AI-Utilization-in-Modern-Supply-Chains-Implications-for-Warehouse-Maintenance-Costs-and-Product-Pricing.pdf)
-  - [HTML scirp.org](https://www.scirp.org/journal/paperinformation?paperid=135046)
+  - [**[HTML]** scirp.org](https://www.scirp.org/journal/paperinformation?paperid=135046)
 
   - [**[HTML]** Dynamic **Pricing** Strategies Using **Artificial Intelligence** Algorithm](https://www.scirp.org/journal/paperinformation?paperid=135046)
   - [**[PDF]** fepbl.com](https://www.fepbl.com/index.php/ijmer/article/download/965/1180)
@@ -1123,7 +1120,8 @@
 
   - [Business models: Software-as-a-service](https://search.informit.org/doi/abs/10.3316/informit.T2024051700003100130608921)
 
-- 图14: 发展里程碑时间线
+- **示例**:
+  - 图14: 发展里程碑时间线
 
 ---
 
