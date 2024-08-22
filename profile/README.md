@@ -30,7 +30,3 @@ We believe in the power of open source and community collaboration. Here's how y
 ### 🧙 Remember, you can do mighty things with the power of AI and SaaS
 
 With the **AI Agent as SaaS** platform, we’re not just building software—we’re building the future. Join us on this journey, contribute to our projects, and let's make a difference together.
-
----
-
-Feel free to modify any section to better fit your organization's tone or specific needs! If you need further customization or additional sections, just let me know!
